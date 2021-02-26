@@ -1,0 +1,9 @@
+remote_theme: pages-themes/minimal
+
+title: Adrià Massanet
+description: Security, digital identity and decentralization software engineer.
+
+show_downloads: false
+
+plugins:
+  - jekyll-remote-theme
